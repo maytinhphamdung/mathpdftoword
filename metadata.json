@@ -1,0 +1,5 @@
+{
+  "name": "MathOCR Gemini",
+  "description": "Intelligent OCR for Math PDFs/Images with precise figure cropping and Word export.",
+  "requestFramePermissions": []
+}
